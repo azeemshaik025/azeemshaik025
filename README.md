@@ -56,4 +56,5 @@
 <a href="mailto:azeemshaik025@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-azeemshaik025@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=azeem-0)
 ⭐️ From [Shaik Azeem](https://github.com/azeem-0)
