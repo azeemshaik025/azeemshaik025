@@ -5,8 +5,6 @@
 
 - 🚀 &nbsp; Passionate about building scalable and efficient web applications.
 - 🤔 &nbsp; Eagerly passionate about software engineering and full-stack development.
-- 🎓 &nbsp; Studying Computer Science and Engineering at MVGR College of Engineering.
-- 💻 &nbsp; Contributing to open-source projects to learn and grow with the community.
 - 📚 &nbsp; Actively participating in coding competitions to sharpen problem-solving skills.
 - 🌱 &nbsp; Focused on MERN stack, software development, and web development.
 
