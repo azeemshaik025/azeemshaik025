@@ -59,6 +59,7 @@ impl Developer {
 }
 
 let me = Developer::new();
+
 println!("👋 Hello! I'm {}, working as a {} at {}", me.name, me.role, me.company);
 ```
 
