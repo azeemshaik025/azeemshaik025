@@ -10,14 +10,14 @@ Backend Engineer specializing in Rust and Blockchain Development
 
 ## About
 
-I'm a backend engineer focused on building scalable, high-performance systems. Currently working with Rust and blockchain technologies to develop robust distributed applications.
+I'm a backend engineer building scalable systems with Rust and blockchain technologies. Focused on learning and contributing to distributed systems and performance-oriented applications.
 
 ## Technical Expertise
 
 **Primary Stack**
 
 - Rust • Blockchain Development • Bitcoin Protocol
-- TypeScript • Effect.ts • Functional Backend Architecture
+- TypeScript • Effect.ts • Functional Programming
 - Distributed Systems • API Design
 
 **Focus Areas**
@@ -31,9 +31,9 @@ I'm a backend engineer focused on building scalable, high-performance systems. C
 Building production-grade backend systems at Hashira with emphasis on:
 
 - Blockchain infrastructure and protocol implementation
-- High-throughput distributed systems
-- Performance-critical applications in Rust
+- Building distributed system components
+- Working on performance-focused applications in Rust
 
 ---
 
-**Open to:** Collaboration on Rust projects, blockchain development, and backend architecture discussions.
+**Open to:** Collaboration on Rust projects, blockchain development, and backend engineering discussions.
