@@ -9,6 +9,7 @@ Most of my work is building distributed, deterministic systems in Rust, heavy on
 I also spend time in open source. Some recent work:
 
 * [Zed](https://github.com/zed-industries/zed/pull/62536) — Incremental diff-buffer loading, bounded by a repo-wide cap on concurrent blob reads.
+* [graphify](https://github.com/Graphify-Labs/graphify/commit/12d4c691…) — Rust trait edges now point at the trait, not its type argument: `impl From<Celsius> for Fahrenheit` no longer reads as `Fahrenheit implements Celsius`. Shipped in 0.9.113.
 * [tui-textarea](https://github.com/srothgan/tui-textarea/pull/33) — Coalesced consecutive edits into a single undo step.
 * [baro](https://github.com/jigjoy-ai/baro/pulls?q=is%3Apr+state%3Amerged+author%3Aazeemshaik025) — Fixed false pass/fail reporting in exit handling and test parsing.
 * [DefiLlama](https://github.com/search?q=org%3ADefiLlama+author%3Aazeemshaik025+is%3Apr+is%3Amerged&type=pullrequests) — An AI agent skill for building TVL and dimension adapters.
