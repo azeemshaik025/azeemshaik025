@@ -16,4 +16,4 @@ I also spend time in open source. Some recent work:
 
 ---
 
-Rust · Distributed Systems · Blockchain Infrastructure
+Rust · Distributed Systems · Open Source Software
